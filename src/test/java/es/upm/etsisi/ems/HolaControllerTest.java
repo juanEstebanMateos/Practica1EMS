@@ -40,7 +40,7 @@ public class HolaControllerTest {
     public void holaSinParametros() throws Exception {
 	mockMvc.perform(get("/hola"))
 	.andExpect(status().isOk())
-	.andExpect(view().name("hola"))
+	.andExpect(view().name("holammmm"))
 	.andExpect(model().attributeExists("nombre"))
 	.andExpect(model().attribute("nombre", is("Mundo")))
 	.andExpect(content().string(containsString("¡Hola Mundo!")))

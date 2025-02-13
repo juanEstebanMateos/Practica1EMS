@@ -1,5 +1,5 @@
 # Pipeline de Integración Continua con GitHub Actions
-
+[![Integracion continua](https://github.com/juanEstebanMateos/Practica1EMS/actions/workflows/main.yml/badge.svg)](https://github.com/juanEstebanMateos/Practica1EMS/actions/workflows/main.yml)
 Repositorio para el laboratorio de CI con GitHub Actions
 
 ## Descripción del laboratorio
